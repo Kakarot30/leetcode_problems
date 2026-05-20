@@ -94,6 +94,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [1306-jump-game-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Kakarot30/leetcode_problems/tree/main/1345-jump-game-iv/) | Hard |
 | [2540-minimum-common-value](https://github.com/Kakarot30/leetcode_problems/tree/main/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kakarot30/leetcode_problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | ------- | ------- |
 | [1345-jump-game-iv](https://github.com/Kakarot30/leetcode_problems/tree/main/1345-jump-game-iv/) | Hard |
 | [2540-minimum-common-value](https://github.com/Kakarot30/leetcode_problems/tree/main/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kakarot30/leetcode_problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,4 +131,8 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Kakarot30/leetcode_problems/tree/main/0016-3sum-closest/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kakarot30/leetcode_problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 <!---LeetCode Topics End-->

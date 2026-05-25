@@ -146,6 +146,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1871-jump-game-vii](https://github.com/Kakarot30/leetcode_problems/tree/main/1871-jump-game-vii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Kakarot30/leetcode_problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -159,4 +160,13 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/Kakarot30/leetcode_problems/tree/main/1340-jump-game-v/) | Hard |
+| [1871-jump-game-vii](https://github.com/Kakarot30/leetcode_problems/tree/main/1871-jump-game-vii/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1871-jump-game-vii](https://github.com/Kakarot30/leetcode_problems/tree/main/1871-jump-game-vii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1871-jump-game-vii](https://github.com/Kakarot30/leetcode_problems/tree/main/1871-jump-game-vii/) | Medium |
 <!---LeetCode Topics End-->

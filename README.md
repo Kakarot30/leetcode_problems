@@ -91,6 +91,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0016-3sum-closest](https://github.com/Kakarot30/leetcode_problems/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kakarot30/leetcode_problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/Kakarot30/leetcode_problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1306-jump-game-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/Kakarot30/leetcode_problems/tree/main/1340-jump-game-v/) | Hard |

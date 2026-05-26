@@ -133,6 +133,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Kakarot30/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kakarot30/leetcode_problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Kakarot30/leetcode_problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kakarot30/leetcode_problems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
@@ -159,6 +160,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Kakarot30/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Kakarot30/leetcode_problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -173,4 +175,8 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/Kakarot30/leetcode_problems/tree/main/1871-jump-game-vii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Kakarot30/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->

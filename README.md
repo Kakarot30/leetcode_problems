@@ -148,6 +148,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0002-add-two-numbers](https://github.com/Kakarot30/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kakarot30/leetcode_problems/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Kakarot30/leetcode_problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/Kakarot30/leetcode_problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kakarot30/leetcode_problems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kakarot30/leetcode_problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kakarot30/leetcode_problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -181,6 +182,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Kakarot30/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Kakarot30/leetcode_problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/Kakarot30/leetcode_problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |

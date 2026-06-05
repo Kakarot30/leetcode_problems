@@ -197,6 +197,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [1340-jump-game-v](https://github.com/Kakarot30/leetcode_problems/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/Kakarot30/leetcode_problems/tree/main/1871-jump-game-vii/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +212,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0002-add-two-numbers](https://github.com/Kakarot30/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kakarot30/leetcode_problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

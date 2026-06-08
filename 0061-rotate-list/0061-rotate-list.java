@@ -21,6 +21,10 @@ class Solution {
             count++;
         }
         k=k%count;
+        if(k==0){
+            return head;
+        }
+        // make it circular
         tail.next=head;
 
         int steps = count-k;
@@ -29,9 +33,9 @@ class Solution {
         for(int i=1;i<steps;i++){
             newTail = newTail.next;
         }
-
+        // new head [4]
         ListNode newHead = newTail.next;
-
+        // break the cycle
         newTail.next=null;
 
         return newHead;

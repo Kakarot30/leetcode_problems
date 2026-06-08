@@ -1,23 +1,32 @@
 class Solution {
     public int[] pivotArray(int[] nums, int pivot) {
-        ArrayList<Integer> list1 = new ArrayList<>();
-        ArrayList<Integer> list2 = new ArrayList<>();
         int n = nums.length;
-        for(int i=0;i<n;i++){
-            if(nums[i]<pivot){
-                list1.add(nums[i]);
-            }else if(nums[i]>pivot){
-                list2.add(nums[i]);
+        int countless = 0;
+        int equal = 0;
+        for(int num: nums){
+            if(num<pivot){
+                countless++;
+            }else if(num==pivot){
+                equal++;
             }
         }
-        for(int i=0;i<n;i++){
-            if(nums[i]==pivot){
-                list1.add(nums[i]);
+        int i=0;
+        int j=countless;
+        int k=countless+equal;
+
+        int[] res = new int[n];
+        for(int num: nums){
+            if(num<pivot){
+                res[i]=num;
+                i++;
+            }else if(num==pivot){
+                res[j]=num;
+                j++;
+            }else{
+                res[k]=num;
+                k++;
             }
         }
-        list1.addAll(list2);
-        return list1.stream()
-                    .mapToInt(Integer::intValue)
-                    .toArray();
+        return res;
     }
 }

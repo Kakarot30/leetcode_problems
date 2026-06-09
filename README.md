@@ -92,6 +92,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0033-search-in-rotated-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kakarot30/leetcode_problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0322-coin-change](https://github.com/Kakarot30/leetcode_problems/tree/main/0322-coin-change/) | Medium |
+| [0455-assign-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Kakarot30/leetcode_problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1306-jump-game-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/1306-jump-game-iii/) | Medium |
@@ -144,6 +145,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0061-rotate-list](https://github.com/Kakarot30/leetcode_problems/tree/main/0061-rotate-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kakarot30/leetcode_problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kakarot30/leetcode_problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0455-assign-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kakarot30/leetcode_problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Kakarot30/leetcode_problems/tree/main/2540-minimum-common-value/) | Easy |
@@ -174,6 +176,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Kakarot30/leetcode_problems/tree/main/0016-3sum-closest/) | Medium |
+| [0455-assign-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Kakarot30/leetcode_problems/tree/main/1340-jump-game-v/) | Hard |
 | [2126-destroying-asteroids](https://github.com/Kakarot30/leetcode_problems/tree/main/2126-destroying-asteroids/) | Medium |
@@ -243,6 +246,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Kakarot30/leetcode_problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kakarot30/leetcode_problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |

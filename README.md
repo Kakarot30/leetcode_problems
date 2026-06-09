@@ -91,6 +91,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0016-3sum-closest](https://github.com/Kakarot30/leetcode_problems/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kakarot30/leetcode_problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0322-coin-change](https://github.com/Kakarot30/leetcode_problems/tree/main/0322-coin-change/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Kakarot30/leetcode_problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1306-jump-game-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/1306-jump-game-iii/) | Medium |
@@ -120,6 +121,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/Kakarot30/leetcode_problems/tree/main/0322-coin-change/) | Medium |
 | [1306-jump-game-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/Kakarot30/leetcode_problems/tree/main/1345-jump-game-iv/) | Hard |
 ## Hash Table
@@ -204,6 +206,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0322-coin-change](https://github.com/Kakarot30/leetcode_problems/tree/main/0322-coin-change/) | Medium |
 | [1340-jump-game-v](https://github.com/Kakarot30/leetcode_problems/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/Kakarot30/leetcode_problems/tree/main/1871-jump-game-vii/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |

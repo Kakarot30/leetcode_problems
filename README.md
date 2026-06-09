@@ -125,6 +125,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Kakarot30/leetcode_problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kakarot30/leetcode_problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1345-jump-game-iv](https://github.com/Kakarot30/leetcode_problems/tree/main/1345-jump-game-iv/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kakarot30/leetcode_problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -164,6 +165,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0025-reverse-nodes-in-k-group](https://github.com/Kakarot30/leetcode_problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/Kakarot30/leetcode_problems/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kakarot30/leetcode_problems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/Kakarot30/leetcode_problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kakarot30/leetcode_problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kakarot30/leetcode_problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Sorting

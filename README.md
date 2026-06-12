@@ -112,6 +112,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [3093-longest-common-suffix-queries](https://github.com/Kakarot30/leetcode_problems/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/Kakarot30/leetcode_problems/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kakarot30/leetcode_problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -121,6 +122,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | ------- | ------- |
 | [1306-jump-game-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/1306-jump-game-iii/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +191,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kakarot30/leetcode_problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +217,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0322-coin-change](https://github.com/Kakarot30/leetcode_problems/tree/main/0322-coin-change/) | Medium |
 | [1340-jump-game-v](https://github.com/Kakarot30/leetcode_problems/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/Kakarot30/leetcode_problems/tree/main/1871-jump-game-vii/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Sliding Window
@@ -231,6 +235,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0002-add-two-numbers](https://github.com/Kakarot30/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kakarot30/leetcode_problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Simulation
@@ -266,6 +271,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | ------- | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kakarot30/leetcode_problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

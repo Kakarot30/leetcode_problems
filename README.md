@@ -91,6 +91,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0016-3sum-closest](https://github.com/Kakarot30/leetcode_problems/tree/main/0016-3sum-closest/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Kakarot30/leetcode_problems/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kakarot30/leetcode_problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0322-coin-change](https://github.com/Kakarot30/leetcode_problems/tree/main/0322-coin-change/) | Medium |
 | [0455-assign-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
@@ -294,4 +295,5 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Kakarot30/leetcode_problems/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/0040-combination-sum-ii/) | Medium |
 <!---LeetCode Topics End-->

@@ -98,6 +98,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0455-assign-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Kakarot30/leetcode_problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0980-unique-paths-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/0980-unique-paths-iii/) | Hard |
 | [1306-jump-game-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/Kakarot30/leetcode_problems/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Kakarot30/leetcode_problems/tree/main/1345-jump-game-iv/) | Hard |
@@ -199,6 +200,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/0980-unique-paths-iii/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kakarot30/leetcode_problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## String
@@ -302,8 +304,10 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0039-combination-sum](https://github.com/Kakarot30/leetcode_problems/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0079-word-search](https://github.com/Kakarot30/leetcode_problems/tree/main/0079-word-search/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/0980-unique-paths-iii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Kakarot30/leetcode_problems/tree/main/0079-word-search/) | Medium |
+| [0980-unique-paths-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/0980-unique-paths-iii/) | Hard |
 <!---LeetCode Topics End-->

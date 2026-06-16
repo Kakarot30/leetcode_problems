@@ -212,6 +212,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [3093-longest-common-suffix-queries](https://github.com/Kakarot30/leetcode_problems/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Kakarot30/leetcode_problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -256,6 +257,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/Kakarot30/leetcode_problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kakarot30/leetcode_problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Kakarot30/leetcode_problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |

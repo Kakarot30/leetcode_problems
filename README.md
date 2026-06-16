@@ -97,6 +97,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0322-coin-change](https://github.com/Kakarot30/leetcode_problems/tree/main/0322-coin-change/) | Medium |
 | [0455-assign-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Kakarot30/leetcode_problems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/Kakarot30/leetcode_problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/0980-unique-paths-iii/) | Hard |
 | [1306-jump-game-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/1306-jump-game-iii/) | Medium |
@@ -140,6 +141,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | ------- | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/Kakarot30/leetcode_problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kakarot30/leetcode_problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0491-non-decreasing-subsequences](https://github.com/Kakarot30/leetcode_problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1345-jump-game-iv](https://github.com/Kakarot30/leetcode_problems/tree/main/1345-jump-game-iv/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kakarot30/leetcode_problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Kakarot30/leetcode_problems/tree/main/2540-minimum-common-value/) | Easy |
@@ -200,6 +202,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/Kakarot30/leetcode_problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/0980-unique-paths-iii/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kakarot30/leetcode_problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -306,6 +309,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0039-combination-sum](https://github.com/Kakarot30/leetcode_problems/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0079-word-search](https://github.com/Kakarot30/leetcode_problems/tree/main/0079-word-search/) | Medium |
+| [0491-non-decreasing-subsequences](https://github.com/Kakarot30/leetcode_problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/0980-unique-paths-iii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |

@@ -93,6 +93,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0039-combination-sum](https://github.com/Kakarot30/leetcode_problems/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Kakarot30/leetcode_problems/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Kakarot30/leetcode_problems/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/Kakarot30/leetcode_problems/tree/main/0079-word-search/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kakarot30/leetcode_problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0322-coin-change](https://github.com/Kakarot30/leetcode_problems/tree/main/0322-coin-change/) | Medium |
@@ -320,6 +321,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0039-combination-sum](https://github.com/Kakarot30/leetcode_problems/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Kakarot30/leetcode_problems/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Kakarot30/leetcode_problems/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/Kakarot30/leetcode_problems/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Kakarot30/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Kakarot30/leetcode_problems/tree/main/0491-non-decreasing-subsequences/) | Medium |

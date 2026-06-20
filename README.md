@@ -108,6 +108,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [1470-shuffle-the-array](https://github.com/Kakarot30/leetcode_problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Kakarot30/leetcode_problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kakarot30/leetcode_problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1840-maximum-building-height](https://github.com/Kakarot30/leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
 | [1929-concatenation-of-array](https://github.com/Kakarot30/leetcode_problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Kakarot30/leetcode_problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kakarot30/leetcode_problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -199,6 +200,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0455-assign-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Kakarot30/leetcode_problems/tree/main/1340-jump-game-v/) | Hard |
+| [1840-maximum-building-height](https://github.com/Kakarot30/leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/Kakarot30/leetcode_problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kakarot30/leetcode_problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -261,6 +263,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Kakarot30/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kakarot30/leetcode_problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1840-maximum-building-height](https://github.com/Kakarot30/leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kakarot30/leetcode_problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |

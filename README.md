@@ -250,6 +250,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [1871-jump-game-vii](https://github.com/Kakarot30/leetcode_problems/tree/main/1871-jump-game-vii/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Sliding Window
@@ -262,6 +263,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [1732-find-the-highest-altitude](https://github.com/Kakarot30/leetcode_problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Kakarot30/leetcode_problems/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Kakarot30/leetcode_problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

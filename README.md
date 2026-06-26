@@ -130,6 +130,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [3689-maximum-total-subarray-value-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Kakarot30/leetcode_problems/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -160,6 +161,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [3120-count-the-number-of-special-characters-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -270,6 +272,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [2574-left-and-right-sum-differences](https://github.com/Kakarot30/leetcode_problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +303,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [3161-block-placement-queries](https://github.com/Kakarot30/leetcode_problems/tree/main/3161-block-placement-queries/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,8 +370,10 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 <!---LeetCode Topics End-->

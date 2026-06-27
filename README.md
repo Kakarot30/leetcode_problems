@@ -120,6 +120,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [2540-minimum-common-value](https://github.com/Kakarot30/leetcode_problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Kakarot30/leetcode_problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kakarot30/leetcode_problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kakarot30/leetcode_problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Kakarot30/leetcode_problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Kakarot30/leetcode_problems/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/Kakarot30/leetcode_problems/tree/main/3161-block-placement-queries/) | Hard |
@@ -157,6 +158,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kakarot30/leetcode_problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Kakarot30/leetcode_problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kakarot30/leetcode_problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kakarot30/leetcode_problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Kakarot30/leetcode_problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -318,6 +320,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kakarot30/leetcode_problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |

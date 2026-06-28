@@ -111,6 +111,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kakarot30/leetcode_problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Kakarot30/leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Kakarot30/leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kakarot30/leetcode_problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Kakarot30/leetcode_problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Kakarot30/leetcode_problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kakarot30/leetcode_problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -212,6 +213,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [1340-jump-game-v](https://github.com/Kakarot30/leetcode_problems/tree/main/1340-jump-game-v/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Kakarot30/leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Kakarot30/leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kakarot30/leetcode_problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Kakarot30/leetcode_problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kakarot30/leetcode_problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -311,6 +313,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Kakarot30/leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Kakarot30/leetcode_problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Kakarot30/leetcode_problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kakarot30/leetcode_problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |

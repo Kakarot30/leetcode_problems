@@ -253,6 +253,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0002-add-two-numbers](https://github.com/Kakarot30/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Kakarot30/leetcode_problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kakarot30/leetcode_problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0060-permutation-sequence](https://github.com/Kakarot30/leetcode_problems/tree/main/0060-permutation-sequence/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -283,6 +284,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Kakarot30/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0060-permutation-sequence](https://github.com/Kakarot30/leetcode_problems/tree/main/0060-permutation-sequence/) | Hard |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kakarot30/leetcode_problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/Kakarot30/leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kakarot30/leetcode_problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |

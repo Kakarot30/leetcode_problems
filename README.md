@@ -157,6 +157,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0491-non-decreasing-subsequences](https://github.com/Kakarot30/leetcode_problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Kakarot30/leetcode_problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/Kakarot30/leetcode_problems/tree/main/1345-jump-game-iv/) | Hard |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kakarot30/leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Kakarot30/leetcode_problems/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Kakarot30/leetcode_problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Kakarot30/leetcode_problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -233,6 +234,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0079-word-search](https://github.com/Kakarot30/leetcode_problems/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Kakarot30/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Kakarot30/leetcode_problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kakarot30/leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/Kakarot30/leetcode_problems/tree/main/1871-jump-game-vii/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Kakarot30/leetcode_problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Kakarot30/leetcode_problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -270,6 +272,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kakarot30/leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/Kakarot30/leetcode_problems/tree/main/1871-jump-game-vii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |

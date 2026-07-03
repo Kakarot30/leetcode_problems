@@ -130,6 +130,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kakarot30/leetcode_problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Kakarot30/leetcode_problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Kakarot30/leetcode_problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -195,6 +196,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [2540-minimum-common-value](https://github.com/Kakarot30/leetcode_problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kakarot30/leetcode_problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3161-block-placement-queries](https://github.com/Kakarot30/leetcode_problems/tree/main/3161-block-placement-queries/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Kakarot30/leetcode_problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Linked List
@@ -270,6 +272,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [1871-jump-game-vii](https://github.com/Kakarot30/leetcode_problems/tree/main/1871-jump-game-vii/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Kakarot30/leetcode_problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -352,6 +355,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kakarot30/leetcode_problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kakarot30/leetcode_problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Kakarot30/leetcode_problems/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -406,8 +410,14 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kakarot30/leetcode_problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Kakarot30/leetcode_problems/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kakarot30/leetcode_problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Kakarot30/leetcode_problems/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/Kakarot30/leetcode_problems/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->

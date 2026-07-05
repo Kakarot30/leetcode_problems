@@ -103,6 +103,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0491-non-decreasing-subsequences](https://github.com/Kakarot30/leetcode_problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/0980-unique-paths-iii/) | Hard |
+| [1301-number-of-paths-with-max-score](https://github.com/Kakarot30/leetcode_problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/Kakarot30/leetcode_problems/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Kakarot30/leetcode_problems/tree/main/1345-jump-game-iv/) | Hard |
@@ -270,6 +271,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/Kakarot30/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0322-coin-change](https://github.com/Kakarot30/leetcode_problems/tree/main/0322-coin-change/) | Medium |
+| [1301-number-of-paths-with-max-score](https://github.com/Kakarot30/leetcode_problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/Kakarot30/leetcode_problems/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/Kakarot30/leetcode_problems/tree/main/1871-jump-game-vii/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/2305-fair-distribution-of-cookies/) | Medium |
@@ -382,6 +384,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0037-sudoku-solver](https://github.com/Kakarot30/leetcode_problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0079-word-search](https://github.com/Kakarot30/leetcode_problems/tree/main/0079-word-search/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/0980-unique-paths-iii/) | Hard |
+| [1301-number-of-paths-with-max-score](https://github.com/Kakarot30/leetcode_problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kakarot30/leetcode_problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kakarot30/leetcode_problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Bitmask

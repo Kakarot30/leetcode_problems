@@ -103,6 +103,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0491-non-decreasing-subsequences](https://github.com/Kakarot30/leetcode_problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/0980-unique-paths-iii/) | Hard |
+| [1288-remove-covered-intervals](https://github.com/Kakarot30/leetcode_problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Kakarot30/leetcode_problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/Kakarot30/leetcode_problems/tree/main/1340-jump-game-v/) | Hard |
@@ -222,6 +223,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0016-3sum-closest](https://github.com/Kakarot30/leetcode_problems/tree/main/0016-3sum-closest/) | Medium |
 | [0455-assign-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/Kakarot30/leetcode_problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/Kakarot30/leetcode_problems/tree/main/1340-jump-game-v/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/Kakarot30/leetcode_problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Kakarot30/leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |

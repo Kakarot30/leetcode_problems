@@ -363,6 +363,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/Kakarot30/leetcode_problems/tree/main/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Kakarot30/leetcode_problems/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Tree

@@ -103,6 +103,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0491-non-decreasing-subsequences](https://github.com/Kakarot30/leetcode_problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/0980-unique-paths-iii/) | Hard |
+| [1260-shift-2d-grid](https://github.com/Kakarot30/leetcode_problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Kakarot30/leetcode_problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Kakarot30/leetcode_problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/1306-jump-game-iii/) | Medium |
@@ -347,6 +348,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/Kakarot30/leetcode_problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Kakarot30/leetcode_problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Kakarot30/leetcode_problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -425,6 +427,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0037-sudoku-solver](https://github.com/Kakarot30/leetcode_problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0079-word-search](https://github.com/Kakarot30/leetcode_problems/tree/main/0079-word-search/) | Medium |
 | [0980-unique-paths-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/0980-unique-paths-iii/) | Hard |
+| [1260-shift-2d-grid](https://github.com/Kakarot30/leetcode_problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Kakarot30/leetcode_problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Kakarot30/leetcode_problems/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Kakarot30/leetcode_problems/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |

@@ -97,6 +97,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0051-n-queens](https://github.com/Kakarot30/leetcode_problems/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/Kakarot30/leetcode_problems/tree/main/0079-word-search/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kakarot30/leetcode_problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0217-contains-duplicate](https://github.com/Kakarot30/leetcode_problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0322-coin-change](https://github.com/Kakarot30/leetcode_problems/tree/main/0322-coin-change/) | Medium |
 | [0455-assign-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Kakarot30/leetcode_problems/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -173,6 +174,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0037-sudoku-solver](https://github.com/Kakarot30/leetcode_problems/tree/main/0037-sudoku-solver/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/Kakarot30/leetcode_problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kakarot30/leetcode_problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0217-contains-duplicate](https://github.com/Kakarot30/leetcode_problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/Kakarot30/leetcode_problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Kakarot30/leetcode_problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Kakarot30/leetcode_problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -239,6 +241,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Kakarot30/leetcode_problems/tree/main/0016-3sum-closest/) | Medium |
+| [0217-contains-duplicate](https://github.com/Kakarot30/leetcode_problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Kakarot30/leetcode_problems/tree/main/1288-remove-covered-intervals/) | Medium |

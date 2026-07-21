@@ -1,31 +1,33 @@
 class Solution {
 
     public int maxActiveSectionsAfterTrade(String s) {
-        int n = s.length();
-        int cnt1 = 0;
-        for (char c : s.toCharArray()) {
-            if (c == '1') cnt1++;
+         int n = s.length();
+
+        // existing count of 1s
+        int activeCount = 0;
+        for (int i = 0; i < n; i++) {
+            if (s.charAt(i) == '1') activeCount++;
         }
 
+        List<Integer> inactiveBlocks = new ArrayList<>();
         int i = 0;
-        int bestGain = 0;
-        int prev = Integer.MIN_VALUE;
-        int cur = 0;
-
         while (i < n) {
-            int start = i;
-            while (i < n && s.charAt(i) == s.charAt(start)) {
+            if (s.charAt(i) == '0') {
+                int start = i;
+                while (i < n && s.charAt(i) == '0') i++;
+
+                inactiveBlocks.add(i - start);
+            } else {
                 i++;
             }
-            if (s.charAt(start) == '0') {
-                cur = i - start;
-                if (prev != Integer.MIN_VALUE) {
-                    bestGain = Math.max(bestGain, prev + cur);
-                }
-                prev = cur;
-            }
         }
 
-        return cnt1 + bestGain;
+        int maxPairSum = 0;
+        // max(inactiveBlocks[i] + inactiveBlocks[i-1])
+        for (int j = 1; j < inactiveBlocks.size(); j++) {
+            maxPairSum = Math.max(maxPairSum, inactiveBlocks.get(j) + inactiveBlocks.get(j - 1));
+        }
+
+        return maxPairSum + activeCount;
     }
 }

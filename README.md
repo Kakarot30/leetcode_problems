@@ -94,6 +94,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0039-combination-sum](https://github.com/Kakarot30/leetcode_problems/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Kakarot30/leetcode_problems/tree/main/0046-permutations/) | Medium |
+| [0049-group-anagrams](https://github.com/Kakarot30/leetcode_problems/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Kakarot30/leetcode_problems/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/Kakarot30/leetcode_problems/tree/main/0079-word-search/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kakarot30/leetcode_problems/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -173,6 +174,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Kakarot30/leetcode_problems/tree/main/0037-sudoku-solver/) | Hard |
+| [0049-group-anagrams](https://github.com/Kakarot30/leetcode_problems/tree/main/0049-group-anagrams/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Kakarot30/leetcode_problems/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kakarot30/leetcode_problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/Kakarot30/leetcode_problems/tree/main/0217-contains-duplicate/) | Easy |
@@ -243,6 +245,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Kakarot30/leetcode_problems/tree/main/0016-3sum-closest/) | Medium |
+| [0049-group-anagrams](https://github.com/Kakarot30/leetcode_problems/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Kakarot30/leetcode_problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -270,6 +273,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Kakarot30/leetcode_problems/tree/main/0049-group-anagrams/) | Medium |
 | [0079-word-search](https://github.com/Kakarot30/leetcode_problems/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Kakarot30/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kakarot30/leetcode_problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |

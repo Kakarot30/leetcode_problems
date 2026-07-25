@@ -264,6 +264,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [2126-destroying-asteroids](https://github.com/Kakarot30/leetcode_problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Kakarot30/leetcode_problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3536-maximum-product-of-two-digits](https://github.com/Kakarot30/leetcode_problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Kakarot30/leetcode_problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -358,6 +359,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kakarot30/leetcode_problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/Kakarot30/leetcode_problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kakarot30/leetcode_problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |

@@ -105,6 +105,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0455-assign-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Kakarot30/leetcode_problems/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/Kakarot30/leetcode_problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kakarot30/leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0980-unique-paths-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/0980-unique-paths-iii/) | Hard |
 | [1260-shift-2d-grid](https://github.com/Kakarot30/leetcode_problems/tree/main/1260-shift-2d-grid/) | Easy |
@@ -254,6 +255,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0049-group-anagrams](https://github.com/Kakarot30/leetcode_problems/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Kakarot30/leetcode_problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0455-assign-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kakarot30/leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Kakarot30/leetcode_problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Kakarot30/leetcode_problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -351,6 +353,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Kakarot30/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0060-permutation-sequence](https://github.com/Kakarot30/leetcode_problems/tree/main/0060-permutation-sequence/) | Hard |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kakarot30/leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kakarot30/leetcode_problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/Kakarot30/leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kakarot30/leetcode_problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |

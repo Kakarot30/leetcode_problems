@@ -186,6 +186,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0160-intersection-of-two-linked-lists](https://github.com/Kakarot30/leetcode_problems/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/Kakarot30/leetcode_problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Kakarot30/leetcode_problems/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0242-valid-anagram](https://github.com/Kakarot30/leetcode_problems/tree/main/0242-valid-anagram/) | Easy |
 | [0491-non-decreasing-subsequences](https://github.com/Kakarot30/leetcode_problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Kakarot30/leetcode_problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Kakarot30/leetcode_problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -255,6 +256,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0016-3sum-closest](https://github.com/Kakarot30/leetcode_problems/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/Kakarot30/leetcode_problems/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Kakarot30/leetcode_problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/Kakarot30/leetcode_problems/tree/main/0242-valid-anagram/) | Easy |
 | [0455-assign-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kakarot30/leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Kakarot30/leetcode_problems/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -289,6 +291,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0049-group-anagrams](https://github.com/Kakarot30/leetcode_problems/tree/main/0049-group-anagrams/) | Medium |
 | [0079-word-search](https://github.com/Kakarot30/leetcode_problems/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Kakarot30/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0242-valid-anagram](https://github.com/Kakarot30/leetcode_problems/tree/main/0242-valid-anagram/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Kakarot30/leetcode_problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Kakarot30/leetcode_problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kakarot30/leetcode_problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |

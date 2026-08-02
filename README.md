@@ -104,6 +104,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0322-coin-change](https://github.com/Kakarot30/leetcode_problems/tree/main/0322-coin-change/) | Medium |
 | [0455-assign-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Kakarot30/leetcode_problems/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/Kakarot30/leetcode_problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0491-non-decreasing-subsequences](https://github.com/Kakarot30/leetcode_problems/tree/main/0491-non-decreasing-subsequences/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kakarot30/leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Kakarot30/leetcode_problems/tree/main/0877-stone-game/) | Medium |
@@ -325,11 +326,13 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0021-merge-two-sorted-lists](https://github.com/Kakarot30/leetcode_problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kakarot30/leetcode_problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0060-permutation-sequence](https://github.com/Kakarot30/leetcode_problems/tree/main/0060-permutation-sequence/) | Hard |
+| [0486-predict-the-winner](https://github.com/Kakarot30/leetcode_problems/tree/main/0486-predict-the-winner/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0131-palindrome-partitioning](https://github.com/Kakarot30/leetcode_problems/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0322-coin-change](https://github.com/Kakarot30/leetcode_problems/tree/main/0322-coin-change/) | Medium |
+| [0486-predict-the-winner](https://github.com/Kakarot30/leetcode_problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Kakarot30/leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Kakarot30/leetcode_problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/Kakarot30/leetcode_problems/tree/main/1340-jump-game-v/) | Hard |
@@ -365,6 +368,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Kakarot30/leetcode_problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0060-permutation-sequence](https://github.com/Kakarot30/leetcode_problems/tree/main/0060-permutation-sequence/) | Hard |
+| [0486-predict-the-winner](https://github.com/Kakarot30/leetcode_problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kakarot30/leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Kakarot30/leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kakarot30/leetcode_problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -546,5 +550,6 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Kakarot30/leetcode_problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Kakarot30/leetcode_problems/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->

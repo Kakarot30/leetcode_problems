@@ -117,6 +117,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [1331-rank-transform-of-an-array](https://github.com/Kakarot30/leetcode_problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1340-jump-game-v](https://github.com/Kakarot30/leetcode_problems/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Kakarot30/leetcode_problems/tree/main/1345-jump-game-iv/) | Hard |
+| [1406-stone-game-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Kakarot30/leetcode_problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Kakarot30/leetcode_problems/tree/main/1470-shuffle-the-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Kakarot30/leetcode_problems/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -339,6 +340,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0877-stone-game](https://github.com/Kakarot30/leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Kakarot30/leetcode_problems/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1340-jump-game-v](https://github.com/Kakarot30/leetcode_problems/tree/main/1340-jump-game-v/) | Hard |
+| [1406-stone-game-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1871-jump-game-vii](https://github.com/Kakarot30/leetcode_problems/tree/main/1871-jump-game-vii/) | Medium |
 | [2305-fair-distribution-of-cookies](https://github.com/Kakarot30/leetcode_problems/tree/main/2305-fair-distribution-of-cookies/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Kakarot30/leetcode_problems/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -375,6 +377,7 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | [0628-maximum-product-of-three-numbers](https://github.com/Kakarot30/leetcode_problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Kakarot30/leetcode_problems/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Kakarot30/leetcode_problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1406-stone-game-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1840-maximum-building-height](https://github.com/Kakarot30/leetcode_problems/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kakarot30/leetcode_problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Kakarot30/leetcode_problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -557,4 +560,13 @@ This repo is powered by **LeetHub** — a browser extension that automatically p
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Kakarot30/leetcode_problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Kakarot30/leetcode_problems/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/1406-stone-game-iii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Kakarot30/leetcode_problems/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
